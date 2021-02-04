@@ -22,4 +22,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about JavaScript and React .
 
 -----
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaAlmashhor)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- BLOG-POST-LIST:START -->
