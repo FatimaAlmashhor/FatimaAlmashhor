@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 - 💬 Ask me about JavaScript and React .
 
 -----
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FatimaAlmashhor&show_icons=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatimaAlmashhor&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FatimaAlmashhor&repo=capstone-project-exhale)](https://github.com/FatimaAlmashhor/capstone-project-exhale)
